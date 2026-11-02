@@ -84,5 +84,7 @@ The reported evaluation covers only the first 30 observations of the test period
 Actual future stock prices may differ significantly.
 
 Author
+
 Roshani Kundu
+
 Aspiring Data Scientist | Python | Machine Learning | Data Analysis
