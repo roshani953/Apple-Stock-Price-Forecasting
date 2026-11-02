@@ -2,6 +2,7 @@ Apple Stock Price Forecasting
 **Live Demo** 
 [Try the Apple Stock Closing Price Forecasting App]
 (https://apple-stock-price-forecasting-for-next-30-days.streamlit.app/)
+
 PROJECT OVERVIEW
 
 This project uses machine learning and time-series forecasting techniques to predict Apple's Closing 
